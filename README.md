@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there :wave:
 
-<!--
-**ahmedbrs/ahmedbrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Currently Student at Openclassrooms on the [PHP/Symfony](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony)
+course.
 
-Here are some ideas to get you started:
+Following are a list of my projects (validated and not yet validated) :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [x] Project - 1
+ - [x] [Project - 2](https://chalets-et-caviar.ahmedbouras.com/)
+ - [x] [Project - 3](https://lesfilmsdepleinair.ahmedbouras.com/)
+ - [x] Project - 4
+ - [x] [Project - 5](https://blog-personnel.ahmedbouras.com/)
+ - [ ] Project - 6 (in progress)
+ - [ ] Project - 7
+ - [ ] Project - 8
+ - [ ] Project - 9
