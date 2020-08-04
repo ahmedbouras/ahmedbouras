@@ -3,7 +3,7 @@
 I'm Currently Student at Openclassrooms on the [PHP/Symfony](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony)
 course.
 
-Following are a list of my projects (validated and not yet validated) :
+Below, you'll find a list of my projects (validated and not yet validated) :
 
  - [x] Project - 1
  - [x] [Project - 2](https://chalets-et-caviar.ahmedbouras.com/)
