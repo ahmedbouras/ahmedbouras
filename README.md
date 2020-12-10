@@ -10,7 +10,7 @@ Below, you'll find a list of my projects (validated and not yet validated) :
  - [x] [**Project - 3**](https://lesfilmsdepleinair.ahmedbouras.com/) - *HTML5 CSS3 Bootstrap*
  - [x] **Project - 4** - *UML Diagram (use case, sequence, class)*
  - [x] [**Project - 5**](https://blog-personnel.ahmedbouras.com/) - *PHP MySQL*
- - [ ] **Project - 6** (in progress) - *Symfony*
- - [ ] **Project - 7**
+ - [x] **Project - 6** (link coming soon) - *Symfony Javascript*
+ - [ ] **Project - 7** (in progress) - *Symfony*
  - [ ] **Project - 8**
  - [ ] **Project - 9**
