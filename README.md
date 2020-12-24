@@ -1,5 +1,4 @@
 ## Hi there :wave:
-* contact me at ahmed.bouras@outlook.fr
 I'm Currently Student at Openclassrooms on the [PHP/Symfony](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony)
 course.
 
@@ -13,4 +12,4 @@ Below, you'll find a list of my projects (validated and not yet validated) :
  - [x] **Project - 6** - *Communautary blog with Symfony Javascript* - (link coming soon)
  - [ ] **Project - 7** - *API with Symfony* - (in progress)
  - [ ] **Project - 8** - *Improve a TODO app with Symfony*
- - [ ] **Project - 9** - Company internship *(contact me at ahmed.bouras@outlook.fr)*
+ - [ ] **Project - 9 - Company internship (contact me at ahmed.bouras@outlook.fr)**
