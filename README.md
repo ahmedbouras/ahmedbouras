@@ -12,3 +12,8 @@ Below, you'll find a list of my projects :
  - [x] **Project - 7** - *API with Symfony* - (link coming soon) Repository : OC_P7
  - [x] **Project - 8** - *Improve a TODO app with Symfony and make tests* - (link coming soon) Repository : OC_P8
  - [x] **Project - 9** - *Make a great technological watch*
+
+
+And here, you'll find a list of my freecodecamp certifications :
+
+[Responsive web design](https://freecodecamp.org/certification/ahmedbrs/responsive-web-design)
