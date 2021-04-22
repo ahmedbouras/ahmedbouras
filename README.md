@@ -8,9 +8,9 @@ Below, you'll find a list of my projects :
  - [x] [**Project - 3**](https://lesfilmsdepleinair.ahmedbouras.com/) - *Website mockup with HTML5 CSS3 Bootstrap*
  - [x] **Project - 4** - *UML Diagram (use case, sequence, class)*
  - [x] [**Project - 5**](https://blog-personnel.ahmedbouras.com/) - *Blog with PHP MySQL* Repository : OC_P5
- - [x] **Project - 6** - *Communautary blog with Symfony Javascript* - (link coming soon) Repository : OC_P6
+ - [x] [**Project - 6**](https://snowtricks.ahmedbouras.com/) - *Communautary blog with Symfony Javascript* Repository : OC_P6
  - [x] **Project - 7** - *API with Symfony* - (link coming soon) Repository : OC_P7
- - [x] **Project - 8** - *Improve a TODO app with Symfony and make tests* - (link coming soon) Repository : OC_P8
+ - [x] [**Project - 8**](https://todoandco.ahmedbouras.com/) - *Improve a TODO app with Symfony and make tests* Repository : OC_P8
  - [x] **Project - 9** - *Make a great technological watch*
 
 I'll improve my projects. I'm just waiting for the jury's return to modify my projects.
