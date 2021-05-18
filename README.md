@@ -1,19 +1,8 @@
-## Hi there :wave:
-I've just finished my profesional training from Openclassrooms on the [PHP/Symfony](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony) course.
+## Hey ! :wave:
+Diplomé de la formation [Développeur d'application PHP/Symfony](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony) d'Openclassrooms, vous trouverez des projets issus de celle-ci. Je continue de les mettres à jour afin de m'améliorer techniquement et d'essayer de nouvelles fonctionnalités.
 
-Below, you'll find a list of my projects :
+ - Blog personnel (sans framework) - :file_folder:[repository](https://github.com/ahmedbrs/OC_P5) - :computer:[site web](https://blogphp.ahmedbouras.com/)
 
- - [x] **Project - 1** - *Nothing special*
- - [x] [**Project - 2**](https://chalets-et-caviar.ahmedbouras.com/) - *Rental website with WordPress*
- - [x] [**Project - 3**](https://lesfilmsdepleinair.ahmedbouras.com/) - *Website mockup with HTML5 CSS3 Bootstrap*
- - [x] **Project - 4** - *UML Diagram (use case, sequence, class)*
- - [x] [**Project - 5**](https://blog-personnel.ahmedbouras.com/) - *Blog with PHP MySQL* Repository : OC_P5
- - [x] [**Project - 6**](https://snowtricks.ahmedbouras.com/) - *Communautary blog with Symfony Javascript* Repository : OC_P6
- - [x] **Project - 7** - *API with Symfony* - (link coming soon) Repository : OC_P7
- - [x] [**Project - 8**](https://todoandco.ahmedbouras.com/) - *Improve a TODO app with Symfony and make tests* Repository : OC_P8
- - [x] **Project - 9** - *Make a great technological watch*
-
-I'll improve my projects. I'm just waiting for the jury's return to modify my projects.
-
-And here, you'll find a list of my freecodecamp certifications :
-[Responsive web design](https://freecodecamp.org/certification/ahmedbrs/responsive-web-design)
+ - Blog communautaire (framework symfony) - :file_folder:[repository](https://github.com/ahmedbrs/OC_P6) - :computer:[site web](https://snowtricks.ahmedbouras.com/)
+ - API (framework symfony sans api platform) - :file_folder:[repository](https://github.com/ahmedbrs/OC_P7)
+ - Application todo list - :file_folder:[repository](https://github.com/ahmedbrs/OC_P8) - :computer:[site web](https://todoandco.ahmedbouras.com/)
