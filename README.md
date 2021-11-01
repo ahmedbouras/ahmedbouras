@@ -1,5 +1,5 @@
 ## Hey ! :wave:
-Diplomé de la formation [Développeur d'application PHP/Symfony](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony) d'Openclassrooms, vous trouverez des projets issus de celle-ci.
+Vous trouverez ci-dessous les projets issus de ma formation [Développeur d'application PHP/Symfony](https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony) d'Openclassrooms.
 
  - Blog personnel (sans framework) - :file_folder:[repository](https://github.com/ahmedbrs/OC_P5) - :computer:[site web](https://blogphp.ahmedbouras.com/)
  - Blog communautaire (framework symfony) - :file_folder:[repository](https://github.com/ahmedbrs/OC_P6) - :computer:[site web](https://snowtricks.ahmedbouras.com/)
