@@ -9,3 +9,7 @@ Vous trouverez ci-dessous les projets issus de ma formation [Développeur d'appl
 ------------
 
 N'hésitez pas à visiter [mon profil Codepen](https://codepen.io/ahmedbrs) ! Vous y trouverez des projets spécifiques au Frontend.
+
+------------
+
+Mon dernier article sur Dev.to : [align-items vs align-content](https://dev.to/ahmedbrs/align-items-vs-align-content-fr-36on).
